@@ -1,0 +1,22 @@
+[
+  {
+    "id": "users",
+    "label": "Usuarios",
+    "path": "users"
+  },
+  {
+    "id": "songs",
+    "label": "Canciones",
+    "path": "songs"
+  },
+  {
+    "id": "artists",
+    "label": "Artistas",
+    "path": "artists"
+  },
+  {
+    "id": "metrics",
+    "label": "Métricas",
+    "path": "metrics"
+  }
+]
